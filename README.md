@@ -4,7 +4,7 @@ LexiLog is a personal vocabulary tracker that helps users save new words, fetch 
 
 ---
 
-## ✨ Project Overview and Purpose
+## Project Overview and Purpose
 
 Many people encounter new words but forget them soon after. LexiLog helps users build and retain their vocabulary by:
 
@@ -17,7 +17,7 @@ It’s built with React, styled using Tailwind CSS, and stores data in Firebase 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **React** – Frontend UI framework
 - **Tailwind CSS** – Utility-first styling framework
@@ -28,7 +28,7 @@ It’s built with React, styled using Tailwind CSS, and stores data in Firebase 
 
 ---
 
-## ⚙️ Setup and Installation
+## Setup and Installation
 
 1. **Clone the repository**:
    ```bash
